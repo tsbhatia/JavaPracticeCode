@@ -1,0 +1,8 @@
+taran 3.4
+jeevan 4
+meet 2.6
+preet 1.2
+bob 4
+vinay 3.2
+surjeet 3.0
+
